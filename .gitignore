@@ -76,3 +76,6 @@ tools/gf_unit_w*
 tools/test-suite.log
 tools/.qemu/
 tools/test_simd*.results*
+
+.idea
+.vscode
